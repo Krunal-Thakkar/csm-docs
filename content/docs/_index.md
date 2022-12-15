@@ -62,8 +62,6 @@ CSM is made up of multiple components including modules (enterprise capabilities
   {{< /card >}}
 {{< /cardpane >}}
 
-<img src="csm_diagram.jpg" alt="CSM Diagram" width="800"/>
-
 ## CSM Supported Modules and Dell CSI Drivers
 
 | Modules/Drivers                                                                              | CSM 1.5 | [CSM 1.4](../v1/) | [CSM 1.3](../v2/) | [CSM 1.2.1](../v3/) |

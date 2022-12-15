@@ -76,7 +76,13 @@ Set up the environment as follows:
 
 - Add all FC array ports zoned to the ESX/ESXis to a port group where the cluster is hosted .
 
+<<<<<<< HEAD
 - Add hosts/initiators from all ESX/ESXis to a host group where the cluster is hosted.
+=======
+- Add initiators from all ESX/ESXis to a host(initiator group) where the cluster is hosted.
+
+>Note: Initiators from all ESX/ESXi should be part of a single host(initiator group) and not hostgroup(cascaded intitiator group).
+>>>>>>> release-1.6
 
 ### Certificate validation for Unisphere REST API calls
 
@@ -276,7 +282,11 @@ CRDs should be configured during replication prepare stage with repctl as descri
 | **vSphere**| This section refers to the configuration options for VMware virtualized environment support via RDM  |  -  | - |
 | enabled                  | A boolean that enables/disables VMware virtualized environment support. |  No      |   false   |
 | fcPortGroup                  | Existing portGroup that driver will use for vSphere. |  Yes      |   ""   |
+<<<<<<< HEAD
 | fcHostGroup                  | Existing host group that driver will use for vSphere. |  Yes      |   ""   |
+=======
+| fcHostGroup                  | Existing host(initiator group) that driver will use for vSphere. |  Yes      |   ""   |
+>>>>>>> release-1.6
 | vCenterHost                  | URL/endpoint of the vCenter where all the ESX are present |  Yes      |   ""   |
 | vCenterUserName                  | Username from the vCenter credentials. |  Yes      |   ""   |
 | vCenterPassword                  | Password from the vCenter credentials. |  Yes      |   ""   |
