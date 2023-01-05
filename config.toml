@@ -1,4 +1,4 @@
-baseURL = "https://dell.github.io/csm-docs/"
+baseURL = "https://krunal-thakkar.github.io/csm-docs/"
 title = "Dell Technologies"
 canonifyURLs = false
 
@@ -153,11 +153,11 @@ enable = false
 #	icon = "fab fa-stack-overflow"
 #        desc = "Practical questions and curated answers"
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
-[[params.links.developer]]
-	name = "GitHub"
-	url = "https://github.com/dell/csm"
-	icon = "fab fa-github"
-        desc = "Development takes place here!"
+#[[params.links.developer]]
+#	name = "GitHub"
+#	url = "https://github.com/dell/csm"
+#	icon = "fab fa-github"
+ #       desc = "Development takes place here!"
 [[params.links.developer]]
 	name = "Slack"
 	url = "http://del.ly/Slack_request"
@@ -168,26 +168,26 @@ enable = false
 #	url = "https://example.org/mail"
 #	icon = "fa fa-envelope"
 #        desc = "Discuss development issues around the project"
-[[params.versions]]
-  version = "Current(v1.5)"
-  url = "https://dell.github.io/csm-docs/docs/"
+#[[params.versions]]
+#  version = "Current(v1.5)"
+#  url = "https://dell.github.io/csm-docs/docs/"
 
-[[params.versions]]
-  version = "v1.4"
-  url = "https://dell.github.io/csm-docs/v1"
+#[[params.versions]]
+#  version = "v1.4"
+#  url = "https://dell.github.io/csm-docs/v1"
 
-[[params.versions]]
-  version = "v1.3.1"
-  url = "https://dell.github.io/csm-docs/v2"
+#[[params.versions]]
+#  version = "v1.3.1"
+#  url = "https://dell.github.io/csm-docs/v2"
 
-[[params.versions]]
-  version = "v1.2.1"
-  url = "https://dell.github.io/csm-docs/v3"  
+#[[params.versions]]
+#  version = "v1.2.1"
+#  url = "https://dell.github.io/csm-docs/v3"  
 
-[[menu.main]]
-    name = "GitHub"
-    weight = 50
-    url = "https://github.com/dell/csm"
+#[[menu.main]]
+#    name = "GitHub"
+#    weight = 50
+#    url = "https://github.com/dell/csm"
 
 [module]
   # uncomment line below for temporary local development of module
