@@ -13,9 +13,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dell/csm-docs/issues"
+    "url": "https://github.com/krunal-thakkar/csm-docs/issues"
   },
-  "homepage": "https://github.com/dell/csm-docs#readme",
+  "homepage": "https://github.com/krunal-thakkar/csm-docs#readme",
   "devDependencies": {
     "autoprefixer": "^10.4.0",
     "postcss": "^8.3.7",
