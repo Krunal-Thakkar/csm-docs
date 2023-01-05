@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – Our Ecosystem Partners</title>
-    <link>https://dell.github.io/csm-docs/v3/csidriver/partners/</link>
+    <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/partners/</link>
     <description>Recent content in Our Ecosystem Partners on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://dell.github.io/csm-docs/v3/csidriver/partners/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://krunal-thakkar.github.io/csm-docs/v3/csidriver/partners/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>V3: OperatorHub.io</title>
-      <link>https://dell.github.io/csm-docs/v3/csidriver/partners/operator/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/partners/operator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/csidriver/partners/operator/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/partners/operator/</guid>
       <description>
         
         
@@ -44,10 +44,10 @@
     
     <item>
       <title>V3: Red Hat OpenShift</title>
-      <link>https://dell.github.io/csm-docs/v3/csidriver/partners/redhat/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/partners/redhat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/csidriver/partners/redhat/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/partners/redhat/</guid>
       <description>
         
         
@@ -95,10 +95,10 @@
     
     <item>
       <title>V3: MKE</title>
-      <link>https://dell.github.io/csm-docs/v3/csidriver/partners/docker/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/partners/docker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/csidriver/partners/docker/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/partners/docker/</guid>
       <description>
         
         
@@ -116,10 +116,10 @@
     
     <item>
       <title>V3: RKE</title>
-      <link>https://dell.github.io/csm-docs/v3/csidriver/partners/rancher/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/partners/rancher/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/csidriver/partners/rancher/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/partners/rancher/</guid>
       <description>
         
         
@@ -133,10 +133,10 @@
     
     <item>
       <title>V3: VMware Tanzu</title>
-      <link>https://dell.github.io/csm-docs/v3/csidriver/partners/tanzu/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/partners/tanzu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/csidriver/partners/tanzu/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/partners/tanzu/</guid>
       <description>
         
         

@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – Troubleshooting</title>
-    <link>https://dell.github.io/csm-docs/v3/csidriver/troubleshooting/</link>
+    <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/troubleshooting/</link>
     <description>Recent content in Troubleshooting on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://dell.github.io/csm-docs/v3/csidriver/troubleshooting/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://krunal-thakkar.github.io/csm-docs/v3/csidriver/troubleshooting/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>V3: Dell CSI Operator</title>
-      <link>https://dell.github.io/csm-docs/v3/csidriver/troubleshooting/operator/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/troubleshooting/operator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/csidriver/troubleshooting/operator/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/troubleshooting/operator/</guid>
       <description>
         
         
@@ -51,10 +51,10 @@
     
     <item>
       <title>V3: PowerFlex</title>
-      <link>https://dell.github.io/csm-docs/v3/csidriver/troubleshooting/powerflex/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/troubleshooting/powerflex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/csidriver/troubleshooting/powerflex/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/troubleshooting/powerflex/</guid>
       <description>
         
         
@@ -133,10 +133,10 @@
     
     <item>
       <title>V3: PowerMax</title>
-      <link>https://dell.github.io/csm-docs/v3/csidriver/troubleshooting/powermax/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/troubleshooting/powermax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/csidriver/troubleshooting/powermax/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/troubleshooting/powermax/</guid>
       <description>
         
         
@@ -172,10 +172,10 @@
     
     <item>
       <title>V3: PowerScale</title>
-      <link>https://dell.github.io/csm-docs/v3/csidriver/troubleshooting/powerscale/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/troubleshooting/powerscale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/csidriver/troubleshooting/powerscale/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/troubleshooting/powerscale/</guid>
       <description>
         
         
@@ -240,10 +240,10 @@
     
     <item>
       <title>V3: PowerStore</title>
-      <link>https://dell.github.io/csm-docs/v3/csidriver/troubleshooting/powerstore/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/troubleshooting/powerstore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/csidriver/troubleshooting/powerstore/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/troubleshooting/powerstore/</guid>
       <description>
         
         
@@ -279,10 +279,10 @@
     
     <item>
       <title>V3: Unity</title>
-      <link>https://dell.github.io/csm-docs/v3/csidriver/troubleshooting/unity/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/troubleshooting/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/csidriver/troubleshooting/unity/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/troubleshooting/unity/</guid>
       <description>
         
         

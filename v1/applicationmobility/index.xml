@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – Application Mobility</title>
-    <link>https://dell.github.io/csm-docs/v1/applicationmobility/</link>
+    <link>https://krunal-thakkar.github.io/csm-docs/v1/applicationmobility/</link>
     <description>Recent content in Application Mobility on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://dell.github.io/csm-docs/v1/applicationmobility/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://krunal-thakkar.github.io/csm-docs/v1/applicationmobility/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>V1: Deployment</title>
-      <link>https://dell.github.io/csm-docs/v1/applicationmobility/deployment/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v1/applicationmobility/deployment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v1/applicationmobility/deployment/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v1/applicationmobility/deployment/</guid>
       <description>
         
         
@@ -202,10 +202,10 @@
     
     <item>
       <title>V1: Uninstallation</title>
-      <link>https://dell.github.io/csm-docs/v1/applicationmobility/uninstallation/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v1/applicationmobility/uninstallation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v1/applicationmobility/uninstallation/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v1/applicationmobility/uninstallation/</guid>
       <description>
         
         
@@ -219,10 +219,10 @@
     
     <item>
       <title>V1: Use Cases</title>
-      <link>https://dell.github.io/csm-docs/v1/applicationmobility/use_cases/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v1/applicationmobility/use_cases/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v1/applicationmobility/use_cases/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v1/applicationmobility/use_cases/</guid>
       <description>
         
         
@@ -344,10 +344,10 @@ data:
     
     <item>
       <title>V1: Troubleshooting</title>
-      <link>https://dell.github.io/csm-docs/v1/applicationmobility/troubleshooting/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v1/applicationmobility/troubleshooting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v1/applicationmobility/troubleshooting/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v1/applicationmobility/troubleshooting/</guid>
       <description>
         
         
@@ -391,10 +391,10 @@ data:
     
     <item>
       <title>V1: Release Notes</title>
-      <link>https://dell.github.io/csm-docs/v1/applicationmobility/release/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v1/applicationmobility/release/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v1/applicationmobility/release/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v1/applicationmobility/release/</guid>
       <description>
         
         

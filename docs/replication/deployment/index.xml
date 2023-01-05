@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – Deployment</title>
-    <link>https://dell.github.io/csm-docs/docs/replication/deployment/</link>
+    <link>https://krunal-thakkar.github.io/csm-docs/docs/replication/deployment/</link>
     <description>Recent content in Deployment on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://dell.github.io/csm-docs/docs/replication/deployment/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://krunal-thakkar.github.io/csm-docs/docs/replication/deployment/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Installation</title>
-      <link>https://dell.github.io/csm-docs/docs/replication/deployment/installation/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/replication/deployment/installation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/replication/deployment/installation/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/replication/deployment/installation/</guid>
       <description>
         
         
@@ -113,10 +113,10 @@ CSM Replication controller supports following log levels:&lt;/p&gt;
     
     <item>
       <title>Docs: ConfigMap &amp; Secrets</title>
-      <link>https://dell.github.io/csm-docs/docs/replication/deployment/configmap-secrets/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/replication/deployment/configmap-secrets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/replication/deployment/configmap-secrets/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/replication/deployment/configmap-secrets/</guid>
       <description>
         
         
@@ -213,10 +213,10 @@ already has all the required RBAC privileges.&lt;/p&gt;
     
     <item>
       <title>Docs: Installation using repctl</title>
-      <link>https://dell.github.io/csm-docs/docs/replication/deployment/install-repctl/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/replication/deployment/install-repctl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/replication/deployment/install-repctl/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/replication/deployment/install-repctl/</guid>
       <description>
         
         
@@ -268,10 +268,10 @@ information
     
     <item>
       <title>Docs: Storage Class</title>
-      <link>https://dell.github.io/csm-docs/docs/replication/deployment/storageclasses/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/replication/deployment/storageclasses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/replication/deployment/storageclasses/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/replication/deployment/storageclasses/</guid>
       <description>
         
         
@@ -344,10 +344,10 @@ then the storage class definitions in both the clusters would look like -&lt;/p&
     
     <item>
       <title>Docs: PowerMax</title>
-      <link>https://dell.github.io/csm-docs/docs/replication/deployment/powermax/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/replication/deployment/powermax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/replication/deployment/powermax/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/replication/deployment/powermax/</guid>
       <description>
         
         
@@ -655,10 +655,10 @@ The storage protection group on the array can be deleted only if it has no volum
     
     <item>
       <title>Docs: PowerScale</title>
-      <link>https://dell.github.io/csm-docs/docs/replication/deployment/powerscale/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/replication/deployment/powerscale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/replication/deployment/powerscale/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/replication/deployment/powerscale/</guid>
       <description>
         
         
@@ -867,10 +867,10 @@ using the parameters provided in the replication enabled Storage Class.&lt;/p&gt
     
     <item>
       <title>Docs: PowerStore</title>
-      <link>https://dell.github.io/csm-docs/docs/replication/deployment/powerstore/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/replication/deployment/powerstore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/replication/deployment/powerstore/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/replication/deployment/powerstore/</guid>
       <description>
         
         
@@ -1061,10 +1061,10 @@ using the parameters provided in the replication enabled Storage Class.&lt;/p&gt
     
     <item>
       <title>Docs: Unity</title>
-      <link>https://dell.github.io/csm-docs/docs/replication/deployment/unity/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/replication/deployment/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/replication/deployment/unity/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/replication/deployment/unity/</guid>
       <description>
         
         

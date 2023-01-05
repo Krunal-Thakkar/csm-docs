@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – Upgrade</title>
-    <link>https://dell.github.io/csm-docs/v3/csidriver/upgradation/</link>
+    <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/upgradation/</link>
     <description>Recent content in Upgrade on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://dell.github.io/csm-docs/v3/csidriver/upgradation/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://krunal-thakkar.github.io/csm-docs/v3/csidriver/upgradation/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>V3: Dell CSI Operator</title>
-      <link>https://dell.github.io/csm-docs/v3/csidriver/upgradation/drivers/operator/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/upgradation/drivers/operator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/csidriver/upgradation/drivers/operator/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/upgradation/drivers/operator/</guid>
       <description>
         
         
@@ -51,10 +51,10 @@ Dell CSI Operator can be upgraded based on the supported platforms in one of the
     
     <item>
       <title>V3: PowerFlex</title>
-      <link>https://dell.github.io/csm-docs/v3/csidriver/upgradation/drivers/powerflex/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/upgradation/drivers/powerflex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/csidriver/upgradation/drivers/powerflex/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/upgradation/drivers/powerflex/</guid>
       <description>
         
         
@@ -87,10 +87,10 @@ You must set the only system managed in v1.5/v2.0/v2.1 driver as default in conf
     
     <item>
       <title>V3: PowerMax</title>
-      <link>https://dell.github.io/csm-docs/v3/csidriver/upgradation/drivers/powermax/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/upgradation/drivers/powermax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/csidriver/upgradation/drivers/powermax/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/upgradation/drivers/powermax/</guid>
       <description>
         
         
@@ -119,10 +119,10 @@ You must set the only system managed in v1.5/v2.0/v2.1 driver as default in conf
     
     <item>
       <title>V3: PowerScale</title>
-      <link>https://dell.github.io/csm-docs/v3/csidriver/upgradation/drivers/isilon/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/upgradation/drivers/isilon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/csidriver/upgradation/drivers/isilon/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/upgradation/drivers/isilon/</guid>
       <description>
         
         
@@ -159,10 +159,10 @@ You must set the only system managed in v1.5/v2.0/v2.1 driver as default in conf
     
     <item>
       <title>V3: PowerStore</title>
-      <link>https://dell.github.io/csm-docs/v3/csidriver/upgradation/drivers/powerstore/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/upgradation/drivers/powerstore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/csidriver/upgradation/drivers/powerstore/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/upgradation/drivers/powerstore/</guid>
       <description>
         
         
@@ -227,10 +227,10 @@ NFSv4 ACls are supported for NFSv4 shares on NFSv4 enabled NAS servers only. POS
     
     <item>
       <title>V3: Unity</title>
-      <link>https://dell.github.io/csm-docs/v3/csidriver/upgradation/drivers/unity/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/upgradation/drivers/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/csidriver/upgradation/drivers/unity/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/upgradation/drivers/unity/</guid>
       <description>
         
         

@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – Backup and Restore</title>
-    <link>https://dell.github.io/csm-docs/docs/authorization/backup-and-restore/</link>
+    <link>https://krunal-thakkar.github.io/csm-docs/docs/authorization/backup-and-restore/</link>
     <description>Recent content in Backup and Restore on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://dell.github.io/csm-docs/docs/authorization/backup-and-restore/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://krunal-thakkar.github.io/csm-docs/docs/authorization/backup-and-restore/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Helm</title>
-      <link>https://dell.github.io/csm-docs/docs/authorization/backup-and-restore/helm/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/authorization/backup-and-restore/helm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/authorization/backup-and-restore/helm/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/authorization/backup-and-restore/helm/</guid>
       <description>
         
         
@@ -96,10 +96,10 @@ k8s-ab74921ab9      8Gi        RWO            Delete           Bound      author
     
     <item>
       <title>Docs: RPM</title>
-      <link>https://dell.github.io/csm-docs/docs/authorization/backup-and-restore/rpm/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/authorization/backup-and-restore/rpm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/authorization/backup-and-restore/rpm/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/authorization/backup-and-restore/rpm/</guid>
       <description>
         
         

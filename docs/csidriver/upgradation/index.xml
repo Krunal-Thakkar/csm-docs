@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – Upgrade</title>
-    <link>https://dell.github.io/csm-docs/docs/csidriver/upgradation/</link>
+    <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/upgradation/</link>
     <description>Recent content in Upgrade on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://dell.github.io/csm-docs/docs/csidriver/upgradation/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://krunal-thakkar.github.io/csm-docs/docs/csidriver/upgradation/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Dell CSI Operator</title>
-      <link>https://dell.github.io/csm-docs/docs/csidriver/upgradation/drivers/operator/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/upgradation/drivers/operator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/csidriver/upgradation/drivers/operator/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/upgradation/drivers/operator/</guid>
       <description>
         
         
@@ -48,10 +48,10 @@ Dell CSI Operator can be upgraded based on the supported platforms in one of the
     
     <item>
       <title>Docs: PowerFlex</title>
-      <link>https://dell.github.io/csm-docs/docs/csidriver/upgradation/drivers/powerflex/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/upgradation/drivers/powerflex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/csidriver/upgradation/drivers/powerflex/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/upgradation/drivers/powerflex/</guid>
       <description>
         
         
@@ -102,10 +102,10 @@ Spec:
     
     <item>
       <title>Docs: PowerMax</title>
-      <link>https://dell.github.io/csm-docs/docs/csidriver/upgradation/drivers/powermax/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/upgradation/drivers/powermax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/csidriver/upgradation/drivers/powermax/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/upgradation/drivers/powermax/</guid>
       <description>
         
         
@@ -151,10 +151,10 @@ Spec:
     
     <item>
       <title>Docs: PowerScale</title>
-      <link>https://dell.github.io/csm-docs/docs/csidriver/upgradation/drivers/isilon/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/upgradation/drivers/isilon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/csidriver/upgradation/drivers/isilon/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/upgradation/drivers/isilon/</guid>
       <description>
         
         
@@ -191,10 +191,10 @@ Spec:
     
     <item>
       <title>Docs: PowerStore</title>
-      <link>https://dell.github.io/csm-docs/docs/csidriver/upgradation/drivers/powerstore/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/upgradation/drivers/powerstore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/csidriver/upgradation/drivers/powerstore/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/upgradation/drivers/powerstore/</guid>
       <description>
         
         
@@ -259,10 +259,10 @@ NFSv4 ACls are supported for NFSv4 shares on NFSv4 enabled NAS servers only. POS
     
     <item>
       <title>Docs: Unity XT</title>
-      <link>https://dell.github.io/csm-docs/docs/csidriver/upgradation/drivers/unity/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/upgradation/drivers/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/csidriver/upgradation/drivers/unity/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/upgradation/drivers/unity/</guid>
       <description>
         
         
@@ -300,10 +300,10 @@ NFSv4 ACls are supported for NFSv4 shares on NFSv4 enabled NAS servers only. POS
     
     <item>
       <title>Docs: Offline Upgrade of Dell CSI Storage Providers</title>
-      <link>https://dell.github.io/csm-docs/docs/csidriver/upgradation/drivers/offline/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/upgradation/drivers/offline/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/csidriver/upgradation/drivers/offline/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/upgradation/drivers/offline/</guid>
       <description>
         
         

@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – CSM Modules</title>
-    <link>https://dell.github.io/csm-docs/docs/deployment/csmoperator/modules/</link>
+    <link>https://krunal-thakkar.github.io/csm-docs/docs/deployment/csmoperator/modules/</link>
     <description>Recent content in CSM Modules on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://dell.github.io/csm-docs/docs/deployment/csmoperator/modules/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://krunal-thakkar.github.io/csm-docs/docs/deployment/csmoperator/modules/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Authorization</title>
-      <link>https://dell.github.io/csm-docs/docs/deployment/csmoperator/modules/authorization/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/deployment/csmoperator/modules/authorization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/deployment/csmoperator/modules/authorization/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/deployment/csmoperator/modules/authorization/</guid>
       <description>
         
         
@@ -294,10 +294,10 @@ To deploy the Operator, follow the instructions available &lt;a href=&#34;../../
     
     <item>
       <title>Docs: Observability</title>
-      <link>https://dell.github.io/csm-docs/docs/deployment/csmoperator/modules/observability/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/deployment/csmoperator/modules/observability/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/deployment/csmoperator/modules/observability/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/deployment/csmoperator/modules/observability/</guid>
       <description>
         
         
@@ -376,10 +376,10 @@ cert-manager-webhook-66c85f8577-c7hxx     1/1     Running   0               2m2s
     
     <item>
       <title>Docs: Replication</title>
-      <link>https://dell.github.io/csm-docs/docs/deployment/csmoperator/modules/replication/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/deployment/csmoperator/modules/replication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/deployment/csmoperator/modules/replication/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/deployment/csmoperator/modules/replication/</guid>
       <description>
         
         

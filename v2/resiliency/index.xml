@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – Resiliency</title>
-    <link>https://dell.github.io/csm-docs/v2/resiliency/</link>
+    <link>https://krunal-thakkar.github.io/csm-docs/v2/resiliency/</link>
     <description>Recent content in Resiliency on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://dell.github.io/csm-docs/v2/resiliency/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://krunal-thakkar.github.io/csm-docs/v2/resiliency/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>V2: Design</title>
-      <link>https://dell.github.io/csm-docs/v2/resiliency/design/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v2/resiliency/design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v2/resiliency/design/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v2/resiliency/design/</guid>
       <description>
         
         
@@ -82,10 +82,10 @@ The implications of this are that if more than one pod on a node is sharing the 
     
     <item>
       <title>V2: Release notes</title>
-      <link>https://dell.github.io/csm-docs/v2/resiliency/release/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v2/resiliency/release/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v2/resiliency/release/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v2/resiliency/release/</guid>
       <description>
         
         
@@ -107,10 +107,10 @@ The implications of this are that if more than one pod on a node is sharing the 
     
     <item>
       <title>V2: Uninstallation</title>
-      <link>https://dell.github.io/csm-docs/v2/resiliency/uninstallation/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v2/resiliency/uninstallation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v2/resiliency/uninstallation/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v2/resiliency/uninstallation/</guid>
       <description>
         
         
@@ -123,10 +123,10 @@ The implications of this are that if more than one pod on a node is sharing the 
     
     <item>
       <title>V2: Use Cases</title>
-      <link>https://dell.github.io/csm-docs/v2/resiliency/usecases/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v2/resiliency/usecases/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v2/resiliency/usecases/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v2/resiliency/usecases/</guid>
       <description>
         
         
@@ -172,10 +172,10 @@ are connected to the Control Plane through a K8S Control Plane IP Network.&lt;/p
     
     <item>
       <title>V2: Deployment</title>
-      <link>https://dell.github.io/csm-docs/v2/resiliency/deployment/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v2/resiliency/deployment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v2/resiliency/deployment/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v2/resiliency/deployment/</guid>
       <description>
         
         
@@ -440,10 +440,10 @@ The ConfigMap to edit will have this pattern: &lt;storage&gt;-config-params (e.g
     
     <item>
       <title>V2: Upgrade</title>
-      <link>https://dell.github.io/csm-docs/v2/resiliency/upgrade/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v2/resiliency/upgrade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v2/resiliency/upgrade/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v2/resiliency/upgrade/</guid>
       <description>
         
         
@@ -467,10 +467,10 @@ The ConfigMap to edit will have this pattern: &lt;storage&gt;-config-params (e.g
     
     <item>
       <title>V2: Troubleshooting</title>
-      <link>https://dell.github.io/csm-docs/v2/resiliency/troubleshooting/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v2/resiliency/troubleshooting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v2/resiliency/troubleshooting/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v2/resiliency/troubleshooting/</guid>
       <description>
         
         

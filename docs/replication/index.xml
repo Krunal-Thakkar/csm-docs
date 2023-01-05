@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – Replication</title>
-    <link>https://dell.github.io/csm-docs/docs/replication/</link>
+    <link>https://krunal-thakkar.github.io/csm-docs/docs/replication/</link>
     <description>Recent content in Replication on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://dell.github.io/csm-docs/docs/replication/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://krunal-thakkar.github.io/csm-docs/docs/replication/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Deployment</title>
-      <link>https://dell.github.io/csm-docs/docs/replication/deployment/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/replication/deployment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/replication/deployment/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/replication/deployment/</guid>
       <description>
         
         
@@ -28,10 +28,10 @@
     
     <item>
       <title>Docs: Architecture</title>
-      <link>https://dell.github.io/csm-docs/docs/replication/architecture/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/replication/architecture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/replication/architecture/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/replication/architecture/</guid>
       <description>
         
         
@@ -163,10 +163,10 @@ source PVC objects. This information can be easily used to create the PVCs whene
     
     <item>
       <title>Docs: Cluster Topologies</title>
-      <link>https://dell.github.io/csm-docs/docs/replication/cluster-topologies/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/replication/cluster-topologies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/replication/cluster-topologies/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/replication/cluster-topologies/</guid>
       <description>
         
         
@@ -266,10 +266,10 @@ created in both &lt;code&gt;source&lt;/code&gt; and &lt;code&gt;target&lt;/code&
     
     <item>
       <title>Docs: Disaster Recovery</title>
-      <link>https://dell.github.io/csm-docs/docs/replication/disaster-recovery/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/replication/disaster-recovery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/replication/disaster-recovery/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/replication/disaster-recovery/</guid>
       <description>
         
         
@@ -312,10 +312,10 @@ c. Execute &amp;quot;reprotect&amp;quot; action on selected ReplicationGroup whi
     
     <item>
       <title>Docs: High Availability</title>
-      <link>https://dell.github.io/csm-docs/docs/replication/high-availability/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/replication/high-availability/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/replication/high-availability/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/replication/high-availability/</guid>
       <description>
         
         
@@ -375,10 +375,10 @@ The snapshots are by default created on the volumes on the R1 side of the SRDF m
     
     <item>
       <title>Docs: Migrating Volumes</title>
-      <link>https://dell.github.io/csm-docs/docs/replication/migrating-volumes/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/replication/migrating-volumes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/replication/migrating-volumes/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/replication/migrating-volumes/</guid>
       <description>
         
         
@@ -494,10 +494,10 @@ This could be done with similar command to single PV migration:&lt;/p&gt;
     
     <item>
       <title>Docs: Monitoring</title>
-      <link>https://dell.github.io/csm-docs/docs/replication/monitoring/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/replication/monitoring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/replication/monitoring/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/replication/monitoring/</guid>
       <description>
         
         
@@ -514,10 +514,10 @@ replicated-rg-240721b0-12fb-4151-8dd8-94794ae2493e   51d     Ready   SUSPENDED  
     
     <item>
       <title>Docs: Replication Actions</title>
-      <link>https://dell.github.io/csm-docs/docs/replication/replication-actions/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/replication/replication-actions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/replication/replication-actions/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/replication/replication-actions/</guid>
       <description>
         
         
@@ -648,10 +648,10 @@ While performing site-specific actions, please consult each driver&amp;rsquo;s d
     
     <item>
       <title>Docs: Volume Expansion</title>
-      <link>https://dell.github.io/csm-docs/docs/replication/volume_expansion/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/replication/volume_expansion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/replication/volume_expansion/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/replication/volume_expansion/</guid>
       <description>
         
         
@@ -696,10 +696,10 @@ While performing site-specific actions, please consult each driver&amp;rsquo;s d
     
     <item>
       <title>Docs: Tools</title>
-      <link>https://dell.github.io/csm-docs/docs/replication/tools/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/replication/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/replication/tools/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/replication/tools/</guid>
       <description>
         
         
@@ -812,10 +812,10 @@ Name of StorageClass resource that created as &amp;ldquo;target&amp;rdquo; will 
     
     <item>
       <title>Docs: Troubleshooting</title>
-      <link>https://dell.github.io/csm-docs/docs/replication/troubleshooting/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/replication/troubleshooting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/replication/troubleshooting/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/replication/troubleshooting/</guid>
       <description>
         
         
@@ -863,10 +863,10 @@ Name of StorageClass resource that created as &amp;ldquo;target&amp;rdquo; will 
     
     <item>
       <title>Docs: Release notes</title>
-      <link>https://dell.github.io/csm-docs/docs/replication/release/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/replication/release/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/replication/release/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/replication/release/</guid>
       <description>
         
         
@@ -899,10 +899,10 @@ Name of StorageClass resource that created as &amp;ldquo;target&amp;rdquo; will 
     
     <item>
       <title>Docs: Upgrade</title>
-      <link>https://dell.github.io/csm-docs/docs/replication/upgrade/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/replication/upgrade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/replication/upgrade/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/replication/upgrade/</guid>
       <description>
         
         
@@ -956,10 +956,10 @@ controller, because different versions could be incompatible with each other.&lt
     
     <item>
       <title>Docs: Uninstall</title>
-      <link>https://dell.github.io/csm-docs/docs/replication/uninstall/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/replication/uninstall/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/replication/uninstall/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/replication/uninstall/</guid>
       <description>
         
         

@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – Release Notes</title>
-    <link>https://dell.github.io/csm-docs/docs/csidriver/release/</link>
+    <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/release/</link>
     <description>Recent content in Release Notes on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://dell.github.io/csm-docs/docs/csidriver/release/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://krunal-thakkar.github.io/csm-docs/docs/csidriver/release/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Operator</title>
-      <link>https://dell.github.io/csm-docs/docs/csidriver/release/operator/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/release/operator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/csidriver/release/operator/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/release/operator/</guid>
       <description>
         
         
@@ -46,10 +46,10 @@ For any CSI operator and driver issues, questions or feedback, please follow our
     
     <item>
       <title>Docs: PowerFlex</title>
-      <link>https://dell.github.io/csm-docs/docs/csidriver/release/powerflex/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/release/powerflex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/csidriver/release/powerflex/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/release/powerflex/</guid>
       <description>
         
         
@@ -98,10 +98,10 @@ For any CSI operator and driver issues, questions or feedback, please follow our
     
     <item>
       <title>Docs: PowerMax</title>
-      <link>https://dell.github.io/csm-docs/docs/csidriver/release/powermax/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/release/powermax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/csidriver/release/powermax/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/release/powermax/</guid>
       <description>
         
         
@@ -152,10 +152,10 @@ Replication is not supported with VMware/Vsphere virtualization support.&lt;/p&g
     
     <item>
       <title>Docs: PowerScale</title>
-      <link>https://dell.github.io/csm-docs/docs/csidriver/release/powerscale/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/release/powerscale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/csidriver/release/powerscale/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/release/powerscale/</guid>
       <description>
         
         
@@ -210,10 +210,10 @@ Replication is not supported with VMware/Vsphere virtualization support.&lt;/p&g
     
     <item>
       <title>Docs: PowerStore</title>
-      <link>https://dell.github.io/csm-docs/docs/csidriver/release/powerstore/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/release/powerstore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/csidriver/release/powerstore/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/release/powerstore/</guid>
       <description>
         
         
@@ -264,10 +264,10 @@ Replication is not supported with VMware/Vsphere virtualization support.&lt;/p&g
     
     <item>
       <title>Docs: Unity XT</title>
-      <link>https://dell.github.io/csm-docs/docs/csidriver/release/unity/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/release/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/csidriver/release/unity/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/release/unity/</guid>
       <description>
         
         

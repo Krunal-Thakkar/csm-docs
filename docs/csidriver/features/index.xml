@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – Features</title>
-    <link>https://dell.github.io/csm-docs/docs/csidriver/features/</link>
+    <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/features/</link>
     <description>Recent content in Features on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://dell.github.io/csm-docs/docs/csidriver/features/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://krunal-thakkar.github.io/csm-docs/docs/csidriver/features/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: PowerFlex</title>
-      <link>https://dell.github.io/csm-docs/docs/csidriver/features/powerflex/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/features/powerflex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/csidriver/features/powerflex/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/features/powerflex/</guid>
       <description>
         
         
@@ -570,10 +570,10 @@ To accomplish this, two new parameters are introduced in the storage class: band
     
     <item>
       <title>Docs: PowerMax</title>
-      <link>https://dell.github.io/csm-docs/docs/csidriver/features/powermax/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/features/powermax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/csidriver/features/powermax/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/features/powermax/</guid>
       <description>
         
         
@@ -1075,10 +1075,10 @@ RDMs should not be added/removed manually from vCenter on any of the cluster VMs
     
     <item>
       <title>Docs: PowerScale</title>
-      <link>https://dell.github.io/csm-docs/docs/csidriver/features/powerscale/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/features/powerscale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/csidriver/features/powerscale/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/features/powerscale/</guid>
       <description>
         
         
@@ -1525,10 +1525,10 @@ For example, if a volume were to be deleted from the array, or unmounted outside
     
     <item>
       <title>Docs: PowerStore</title>
-      <link>https://dell.github.io/csm-docs/docs/csidriver/features/powerstore/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/features/powerstore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/csidriver/features/powerstore/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/features/powerstore/</guid>
       <description>
         
         
@@ -2101,10 +2101,10 @@ To configure how often driver checks for changed capacity set &lt;code&gt;storag
     
     <item>
       <title>Docs: Unity XT</title>
-      <link>https://dell.github.io/csm-docs/docs/csidriver/features/unity/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/features/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/csidriver/features/unity/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/features/unity/</guid>
       <description>
         
         

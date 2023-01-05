@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – Authorization</title>
-    <link>https://dell.github.io/csm-docs/docs/authorization/</link>
+    <link>https://krunal-thakkar.github.io/csm-docs/docs/authorization/</link>
     <description>Recent content in Authorization on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://dell.github.io/csm-docs/docs/authorization/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://krunal-thakkar.github.io/csm-docs/docs/authorization/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Design</title>
-      <link>https://dell.github.io/csm-docs/docs/authorization/design/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/authorization/design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/authorization/design/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/authorization/design/</guid>
       <description>
         
         
@@ -234,10 +234,10 @@ today.  Support for more Storage Arrays will come in the future.&lt;/p&gt;
     
     <item>
       <title>Docs: Backup and Restore</title>
-      <link>https://dell.github.io/csm-docs/docs/authorization/backup-and-restore/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/authorization/backup-and-restore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/authorization/backup-and-restore/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/authorization/backup-and-restore/</guid>
       <description>
         
         
@@ -248,10 +248,10 @@ today.  Support for more Storage Arrays will come in the future.&lt;/p&gt;
     
     <item>
       <title>Docs: Configuration</title>
-      <link>https://dell.github.io/csm-docs/docs/authorization/configuration/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/authorization/configuration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/authorization/configuration/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/authorization/configuration/</guid>
       <description>
         
         
@@ -262,10 +262,10 @@ today.  Support for more Storage Arrays will come in the future.&lt;/p&gt;
     
     <item>
       <title>Docs: Deployment</title>
-      <link>https://dell.github.io/csm-docs/docs/authorization/deployment/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/authorization/deployment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/authorization/deployment/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/authorization/deployment/</guid>
       <description>
         
         
@@ -276,10 +276,10 @@ today.  Support for more Storage Arrays will come in the future.&lt;/p&gt;
     
     <item>
       <title>Docs: Uninstallation</title>
-      <link>https://dell.github.io/csm-docs/docs/authorization/uninstallation/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/authorization/uninstallation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/authorization/uninstallation/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/authorization/uninstallation/</guid>
       <description>
         
         
@@ -297,10 +297,10 @@ today.  Support for more Storage Arrays will come in the future.&lt;/p&gt;
     
     <item>
       <title>Docs: Upgrade</title>
-      <link>https://dell.github.io/csm-docs/docs/authorization/upgrade/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/authorization/upgrade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/authorization/upgrade/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/authorization/upgrade/</guid>
       <description>
         
         
@@ -337,10 +337,10 @@ k3s kubectl version
     
     <item>
       <title>Docs: CLI</title>
-      <link>https://dell.github.io/csm-docs/docs/authorization/cli/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/authorization/cli/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/authorization/cli/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/authorization/cli/</guid>
       <description>
         
         
@@ -938,10 +938,10 @@ data:
     
     <item>
       <title>Docs: Troubleshooting</title>
-      <link>https://dell.github.io/csm-docs/docs/authorization/troubleshooting/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/authorization/troubleshooting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/authorization/troubleshooting/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/authorization/troubleshooting/</guid>
       <description>
         
         
@@ -1072,10 +1072,10 @@ kubectl -n &amp;lt;driver-namespace&amp;gt; rollout restart daemonSet/vxflexos-n
     
     <item>
       <title>Docs: Release notes</title>
-      <link>https://dell.github.io/csm-docs/docs/authorization/release/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/authorization/release/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/authorization/release/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/authorization/release/</guid>
       <description>
         
         

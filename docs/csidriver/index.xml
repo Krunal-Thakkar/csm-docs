@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – CSI Drivers</title>
-    <link>https://dell.github.io/csm-docs/docs/csidriver/</link>
+    <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/</link>
     <description>Recent content in CSI Drivers on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://dell.github.io/csm-docs/docs/csidriver/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://krunal-thakkar.github.io/csm-docs/docs/csidriver/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Installation</title>
-      <link>https://dell.github.io/csm-docs/docs/csidriver/installation/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/installation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/csidriver/installation/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/installation/</guid>
       <description>
         
         
@@ -29,10 +29,10 @@
     
     <item>
       <title>Docs: Uninstallation</title>
-      <link>https://dell.github.io/csm-docs/docs/csidriver/uninstall/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/uninstall/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/csidriver/uninstall/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/uninstall/</guid>
       <description>
         
         
@@ -62,10 +62,10 @@ kubectl delete &amp;lt;driver-type&amp;gt;/&amp;lt;driver-name&amp;gt; -n &amp;l
     
     <item>
       <title>Docs: Upgrade</title>
-      <link>https://dell.github.io/csm-docs/docs/csidriver/upgradation/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/upgradation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/csidriver/upgradation/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/upgradation/</guid>
       <description>
         
         
@@ -75,10 +75,10 @@ kubectl delete &amp;lt;driver-type&amp;gt;/&amp;lt;driver-name&amp;gt; -n &amp;l
     
     <item>
       <title>Docs: Features</title>
-      <link>https://dell.github.io/csm-docs/docs/csidriver/features/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/csidriver/features/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/features/</guid>
       <description>
         
         
@@ -88,10 +88,10 @@ kubectl delete &amp;lt;driver-type&amp;gt;/&amp;lt;driver-name&amp;gt; -n &amp;l
     
     <item>
       <title>Docs: Troubleshooting</title>
-      <link>https://dell.github.io/csm-docs/docs/csidriver/troubleshooting/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/troubleshooting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/csidriver/troubleshooting/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/troubleshooting/</guid>
       <description>
         
         
@@ -101,10 +101,10 @@ kubectl delete &amp;lt;driver-type&amp;gt;/&amp;lt;driver-name&amp;gt; -n &amp;l
     
     <item>
       <title>Docs: Release Notes</title>
-      <link>https://dell.github.io/csm-docs/docs/csidriver/release/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/release/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/csidriver/release/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/release/</guid>
       <description>
         
         
@@ -114,10 +114,10 @@ kubectl delete &amp;lt;driver-type&amp;gt;/&amp;lt;driver-name&amp;gt; -n &amp;l
     
     <item>
       <title>Docs: Our Ecosystem Partners</title>
-      <link>https://dell.github.io/csm-docs/docs/csidriver/partners/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/partners/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/csidriver/partners/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/partners/</guid>
       <description>
         
         

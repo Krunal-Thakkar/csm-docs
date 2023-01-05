@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – Deployment</title>
-    <link>https://dell.github.io/csm-docs/v3/deployment/</link>
+    <link>https://krunal-thakkar.github.io/csm-docs/v3/deployment/</link>
     <description>Recent content in Deployment on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://dell.github.io/csm-docs/v3/deployment/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://krunal-thakkar.github.io/csm-docs/v3/deployment/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>V3: CSM Installer</title>
-      <link>https://dell.github.io/csm-docs/v3/deployment/csminstaller/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/deployment/csminstaller/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/deployment/csminstaller/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/deployment/csminstaller/</guid>
       <description>
         
         
@@ -307,10 +307,10 @@ adminPassword:
     
     <item>
       <title>V3: CSM Operator</title>
-      <link>https://dell.github.io/csm-docs/v3/deployment/csmoperator/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/deployment/csmoperator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/deployment/csmoperator/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/deployment/csmoperator/</guid>
       <description>
         
         
@@ -393,7 +393,7 @@ adminPassword:
 
 
 &lt;figure class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 2510px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://dell.github.io/csm-docs/csm-docs/v3/deployment/csmoperator/install_hu65a008b76338bb66f6abc1e8679a223d_170165_2500x0_resize_q75_catmullrom.jpg&#34; width=&#34;2500&#34; height=&#34;1252&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;https://krunal-thakkar.github.io/csm-docs/csm-docs/v3/deployment/csmoperator/install_hu65a008b76338bb66f6abc1e8679a223d_170165_2500x0_resize_q75_catmullrom.jpg&#34; width=&#34;2500&#34; height=&#34;1252&#34;&gt;
 	
 &lt;/figure&gt;
 
@@ -408,7 +408,7 @@ adminPassword:
 
 
 &lt;figure class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 2510px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://dell.github.io/csm-docs/csm-docs/v3/deployment/csmoperator/install_pods_hu22d1b56e0d1995d45d1947c2987829d0_116545_2500x0_resize_q75_catmullrom.jpg&#34; width=&#34;2500&#34; height=&#34;785&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;https://krunal-thakkar.github.io/csm-docs/csm-docs/v3/deployment/csmoperator/install_pods_hu22d1b56e0d1995d45d1947c2987829d0_116545_2500x0_resize_q75_catmullrom.jpg&#34; width=&#34;2500&#34; height=&#34;785&#34;&gt;
 	
 &lt;/figure&gt;
 
@@ -429,7 +429,7 @@ adminPassword:
 
 
 &lt;figure class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 2510px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://dell.github.io/csm-docs/csm-docs/v3/deployment/csmoperator/install_olm_hu2eedd74f931e8260c860feb0c72f1e62_182304_2500x0_resize_q75_catmullrom.jpg&#34; width=&#34;2500&#34; height=&#34;1022&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;https://krunal-thakkar.github.io/csm-docs/csm-docs/v3/deployment/csmoperator/install_olm_hu2eedd74f931e8260c860feb0c72f1e62_182304_2500x0_resize_q75_catmullrom.jpg&#34; width=&#34;2500&#34; height=&#34;1022&#34;&gt;
 	
 &lt;/figure&gt;
 
@@ -444,7 +444,7 @@ adminPassword:
 
 
 &lt;figure class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 2510px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://dell.github.io/csm-docs/csm-docs/v3/deployment/csmoperator/install_olm_pods_huda4520e12712062a7cd7a9d2b5385714_107093_2500x0_resize_q75_catmullrom.jpg&#34; width=&#34;2500&#34; height=&#34;487&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;https://krunal-thakkar.github.io/csm-docs/csm-docs/v3/deployment/csmoperator/install_olm_pods_huda4520e12712062a7cd7a9d2b5385714_107093_2500x0_resize_q75_catmullrom.jpg&#34; width=&#34;2500&#34; height=&#34;487&#34;&gt;
 	
 &lt;/figure&gt;
 
@@ -469,7 +469,7 @@ adminPassword:
 
 
 &lt;figure class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 2510px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://dell.github.io/csm-docs/csm-docs/v3/deployment/csmoperator/uninstall_hu709274147079b066148e855aef0845a9_110286_2500x0_resize_q75_catmullrom.JPG&#34; width=&#34;2500&#34; height=&#34;738&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;https://krunal-thakkar.github.io/csm-docs/csm-docs/v3/deployment/csmoperator/uninstall_hu709274147079b066148e855aef0845a9_110286_2500x0_resize_q75_catmullrom.JPG&#34; width=&#34;2500&#34; height=&#34;738&#34;&gt;
 	
 &lt;/figure&gt;
 
@@ -483,7 +483,7 @@ adminPassword:
 
 
 &lt;figure class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 2510px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://dell.github.io/csm-docs/csm-docs/v3/deployment/csmoperator/uninstall_olm_huffe5566d5d7fb4af320bc708dd65cfbb_46203_2500x0_resize_q75_catmullrom.JPG&#34; width=&#34;2500&#34; height=&#34;504&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;https://krunal-thakkar.github.io/csm-docs/csm-docs/v3/deployment/csmoperator/uninstall_olm_huffe5566d5d7fb4af320bc708dd65cfbb_46203_2500x0_resize_q75_catmullrom.JPG&#34; width=&#34;2500&#34; height=&#34;504&#34;&gt;
 	
 &lt;/figure&gt;
 
@@ -594,10 +594,10 @@ $ kubectl edit csm/powerscale -n &amp;lt;driver-namespace&amp;gt;
     
     <item>
       <title>V3: CSM REST API</title>
-      <link>https://dell.github.io/csm-docs/v3/deployment/csmapi/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/deployment/csmapi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/deployment/csmapi/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/deployment/csmapi/</guid>
       <description>
         
         
@@ -623,10 +623,10 @@ window.onload = function() {
     
     <item>
       <title>V3: CSM CLI</title>
-      <link>https://dell.github.io/csm-docs/v3/deployment/csmcli/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/deployment/csmcli/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/deployment/csmcli/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/deployment/csmcli/</guid>
       <description>
         
         
@@ -804,10 +804,10 @@ Once this is done, run the command below:&lt;/p&gt;
     
     <item>
       <title>V3: Troubleshooting</title>
-      <link>https://dell.github.io/csm-docs/v3/deployment/troubleshooting/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/deployment/troubleshooting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/deployment/troubleshooting/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/deployment/troubleshooting/</guid>
       <description>
         
         

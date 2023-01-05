@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – Deployment</title>
-    <link>https://dell.github.io/csm-docs/docs/deployment/</link>
+    <link>https://krunal-thakkar.github.io/csm-docs/docs/deployment/</link>
     <description>Recent content in Deployment on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://dell.github.io/csm-docs/docs/deployment/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://krunal-thakkar.github.io/csm-docs/docs/deployment/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: CSM Operator</title>
-      <link>https://dell.github.io/csm-docs/docs/deployment/csmoperator/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/deployment/csmoperator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/deployment/csmoperator/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/deployment/csmoperator/</guid>
       <description>
         
         
@@ -109,7 +109,7 @@
 
 
 &lt;figure class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 2510px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://dell.github.io/csm-docs/csm-docs/docs/deployment/csmoperator/install_hu85888722b51123e0513e2ebaa152324f_147828_2500x0_resize_q75_catmullrom.jpg&#34; width=&#34;2500&#34; height=&#34;1435&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;https://krunal-thakkar.github.io/csm-docs/csm-docs/docs/deployment/csmoperator/install_hu85888722b51123e0513e2ebaa152324f_147828_2500x0_resize_q75_catmullrom.jpg&#34; width=&#34;2500&#34; height=&#34;1435&#34;&gt;
 	
 &lt;/figure&gt;
 
@@ -124,7 +124,7 @@
 
 
 &lt;figure class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 2510px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://dell.github.io/csm-docs/csm-docs/docs/deployment/csmoperator/install_pods_hu22d1b56e0d1995d45d1947c2987829d0_116545_2500x0_resize_q75_catmullrom.jpg&#34; width=&#34;2500&#34; height=&#34;785&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;https://krunal-thakkar.github.io/csm-docs/csm-docs/docs/deployment/csmoperator/install_pods_hu22d1b56e0d1995d45d1947c2987829d0_116545_2500x0_resize_q75_catmullrom.jpg&#34; width=&#34;2500&#34; height=&#34;785&#34;&gt;
 	
 &lt;/figure&gt;
 
@@ -145,7 +145,7 @@
 
 
 &lt;figure class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 2510px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://dell.github.io/csm-docs/csm-docs/docs/deployment/csmoperator/install_olm_hu2eedd74f931e8260c860feb0c72f1e62_182304_2500x0_resize_q75_catmullrom.jpg&#34; width=&#34;2500&#34; height=&#34;1022&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;https://krunal-thakkar.github.io/csm-docs/csm-docs/docs/deployment/csmoperator/install_olm_hu2eedd74f931e8260c860feb0c72f1e62_182304_2500x0_resize_q75_catmullrom.jpg&#34; width=&#34;2500&#34; height=&#34;1022&#34;&gt;
 	
 &lt;/figure&gt;
 
@@ -160,7 +160,7 @@
 
 
 &lt;figure class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 2510px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://dell.github.io/csm-docs/csm-docs/docs/deployment/csmoperator/install_olm_pods_hu66764453d70d08f74a9828e23052aaa9_58146_2500x0_resize_q75_catmullrom.JPG&#34; width=&#34;2500&#34; height=&#34;367&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;https://krunal-thakkar.github.io/csm-docs/csm-docs/docs/deployment/csmoperator/install_olm_pods_hu66764453d70d08f74a9828e23052aaa9_58146_2500x0_resize_q75_catmullrom.JPG&#34; width=&#34;2500&#34; height=&#34;367&#34;&gt;
 	
 &lt;/figure&gt;
 
@@ -185,7 +185,7 @@
 
 
 &lt;figure class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 2510px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://dell.github.io/csm-docs/csm-docs/docs/deployment/csmoperator/uninstall_hu709274147079b066148e855aef0845a9_110286_2500x0_resize_q75_catmullrom.JPG&#34; width=&#34;2500&#34; height=&#34;738&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;https://krunal-thakkar.github.io/csm-docs/csm-docs/docs/deployment/csmoperator/uninstall_hu709274147079b066148e855aef0845a9_110286_2500x0_resize_q75_catmullrom.JPG&#34; width=&#34;2500&#34; height=&#34;738&#34;&gt;
 	
 &lt;/figure&gt;
 
@@ -199,7 +199,7 @@
 
 
 &lt;figure class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 2510px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://dell.github.io/csm-docs/csm-docs/docs/deployment/csmoperator/uninstall_olm_hu7acfc5f0715e9eb8698001d34862a289_37915_2500x0_resize_q75_catmullrom.JPG&#34; width=&#34;2500&#34; height=&#34;496&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;https://krunal-thakkar.github.io/csm-docs/csm-docs/docs/deployment/csmoperator/uninstall_olm_hu7acfc5f0715e9eb8698001d34862a289_37915_2500x0_resize_q75_catmullrom.JPG&#34; width=&#34;2500&#34; height=&#34;496&#34;&gt;
 	
 &lt;/figure&gt;
 

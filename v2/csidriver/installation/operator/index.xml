@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – CSI Driver installation using Dell CSI Operator</title>
-    <link>https://dell.github.io/csm-docs/v2/csidriver/installation/operator/</link>
+    <link>https://krunal-thakkar.github.io/csm-docs/v2/csidriver/installation/operator/</link>
     <description>Recent content in CSI Driver installation using Dell CSI Operator on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://dell.github.io/csm-docs/v2/csidriver/installation/operator/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://krunal-thakkar.github.io/csm-docs/v2/csidriver/installation/operator/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>V2: PowerFlex</title>
-      <link>https://dell.github.io/csm-docs/v2/csidriver/installation/operator/powerflex/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v2/csidriver/installation/operator/powerflex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v2/csidriver/installation/operator/powerflex/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v2/csidriver/installation/operator/powerflex/</guid>
       <description>
         
         
@@ -343,10 +343,10 @@ volume stats value under node should be set to true.&lt;/p&gt;
     
     <item>
       <title>V2: PowerMax</title>
-      <link>https://dell.github.io/csm-docs/v2/csidriver/installation/operator/powermax/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v2/csidriver/installation/operator/powermax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v2/csidriver/installation/operator/powermax/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v2/csidriver/installation/operator/powermax/</guid>
       <description>
         
         
@@ -932,10 +932,10 @@ To get the volume health state &lt;code&gt;value&lt;/code&gt; under controller s
     
     <item>
       <title>V2: PowerScale</title>
-      <link>https://dell.github.io/csm-docs/v2/csidriver/installation/operator/isilon/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v2/csidriver/installation/operator/isilon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v2/csidriver/installation/operator/isilon/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v2/csidriver/installation/operator/isilon/</guid>
       <description>
         
         
@@ -1249,10 +1249,10 @@ To enable this feature, add the below block to the driver manifest before instal
     
     <item>
       <title>V2: PowerStore</title>
-      <link>https://dell.github.io/csm-docs/v2/csidriver/installation/operator/powerstore/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v2/csidriver/installation/operator/powerstore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v2/csidriver/installation/operator/powerstore/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v2/csidriver/installation/operator/powerstore/</guid>
       <description>
         
         
@@ -1498,10 +1498,10 @@ volume stats value under node should be set to true.&lt;/p&gt;
     
     <item>
       <title>V2: Unity XT</title>
-      <link>https://dell.github.io/csm-docs/v2/csidriver/installation/operator/unity/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v2/csidriver/installation/operator/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v2/csidriver/installation/operator/unity/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v2/csidriver/installation/operator/unity/</guid>
       <description>
         
         

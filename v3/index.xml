@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – Documentation</title>
-    <link>https://dell.github.io/csm-docs/v3/</link>
+    <link>https://krunal-thakkar.github.io/csm-docs/v3/</link>
     <description>Recent content in Documentation on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://dell.github.io/csm-docs/v3/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://krunal-thakkar.github.io/csm-docs/v3/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>V3: Dell CSI Operator</title>
-      <link>https://dell.github.io/csm-docs/v3/csidriver/upgradation/drivers/operator/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/upgradation/drivers/operator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/csidriver/upgradation/drivers/operator/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/upgradation/drivers/operator/</guid>
       <description>
         
         
@@ -51,10 +51,10 @@ Dell CSI Operator can be upgraded based on the supported platforms in one of the
     
     <item>
       <title>V3: Design</title>
-      <link>https://dell.github.io/csm-docs/v3/authorization/design/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/authorization/design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/authorization/design/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/authorization/design/</guid>
       <description>
         
         
@@ -270,10 +270,10 @@ today.  Support for more Storage Arrays will come in the future.&lt;/p&gt;
     
     <item>
       <title>V3: Design</title>
-      <link>https://dell.github.io/csm-docs/v3/resiliency/design/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/resiliency/design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/resiliency/design/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/resiliency/design/</guid>
       <description>
         
         
@@ -337,10 +337,10 @@ The implications of this are that if more than one pod on a node is sharing the 
     
     <item>
       <title>V3: Getting Started</title>
-      <link>https://dell.github.io/csm-docs/v3/grasp/start/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/grasp/start/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/grasp/start/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/grasp/start/</guid>
       <description>
         
         
@@ -356,10 +356,10 @@ The implications of this are that if more than one pod on a node is sharing the 
     
     <item>
       <title>V3: PowerFlex</title>
-      <link>https://dell.github.io/csm-docs/v3/csidriver/features/powerflex/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/features/powerflex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/csidriver/features/powerflex/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/features/powerflex/</guid>
       <description>
         
         
@@ -834,10 +834,10 @@ Warning  VolumeConditionAbnormal      5s                 kubelet       Volume vo
     
     <item>
       <title>V3: PowerFlex</title>
-      <link>https://dell.github.io/csm-docs/v3/csidriver/upgradation/drivers/powerflex/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/upgradation/drivers/powerflex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/csidriver/upgradation/drivers/powerflex/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/upgradation/drivers/powerflex/</guid>
       <description>
         
         
@@ -870,10 +870,10 @@ You must set the only system managed in v1.5/v2.0/v2.1 driver as default in conf
     
     <item>
       <title>V3: PowerFlex Metrics</title>
-      <link>https://dell.github.io/csm-docs/v3/observability/metrics/powerflex/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/observability/metrics/powerflex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/observability/metrics/powerflex/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/observability/metrics/powerflex/</guid>
       <description>
         
         
@@ -976,10 +976,10 @@ You must set the only system managed in v1.5/v2.0/v2.1 driver as default in conf
     
     <item>
       <title>V3: PowerMax</title>
-      <link>https://dell.github.io/csm-docs/v3/csidriver/features/powermax/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/features/powermax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/csidriver/features/powermax/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/features/powermax/</guid>
       <description>
         
         
@@ -1360,10 +1360,10 @@ on any worker node with access to the PowerMax array &lt;code&gt;000000000001&lt
     
     <item>
       <title>V3: PowerMax</title>
-      <link>https://dell.github.io/csm-docs/v3/csidriver/upgradation/drivers/powermax/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/upgradation/drivers/powermax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/csidriver/upgradation/drivers/powermax/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/upgradation/drivers/powermax/</guid>
       <description>
         
         
@@ -1392,10 +1392,10 @@ on any worker node with access to the PowerMax array &lt;code&gt;000000000001&lt
     
     <item>
       <title>V3: PowerScale</title>
-      <link>https://dell.github.io/csm-docs/v3/csidriver/features/powerscale/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/features/powerscale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/csidriver/features/powerscale/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/features/powerscale/</guid>
       <description>
         
         
@@ -1839,10 +1839,10 @@ For example, if a volume were to be deleted from the array, or unmounted outside
     
     <item>
       <title>V3: PowerScale</title>
-      <link>https://dell.github.io/csm-docs/v3/csidriver/upgradation/drivers/isilon/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/upgradation/drivers/isilon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/csidriver/upgradation/drivers/isilon/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/upgradation/drivers/isilon/</guid>
       <description>
         
         
@@ -1879,10 +1879,10 @@ For example, if a volume were to be deleted from the array, or unmounted outside
     
     <item>
       <title>V3: PowerStore</title>
-      <link>https://dell.github.io/csm-docs/v3/csidriver/features/powerstore/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/features/powerstore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/csidriver/features/powerstore/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/features/powerstore/</guid>
       <description>
         
         
@@ -2383,10 +2383,10 @@ NVMe/TCP is supported with Powerstore 2.1 and above.&lt;/p&gt;
     
     <item>
       <title>V3: PowerStore</title>
-      <link>https://dell.github.io/csm-docs/v3/csidriver/upgradation/drivers/powerstore/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/upgradation/drivers/powerstore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/csidriver/upgradation/drivers/powerstore/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/upgradation/drivers/powerstore/</guid>
       <description>
         
         
@@ -2451,10 +2451,10 @@ NFSv4 ACls are supported for NFSv4 shares on NFSv4 enabled NAS servers only. POS
     
     <item>
       <title>V3: PowerStore Metrics</title>
-      <link>https://dell.github.io/csm-docs/v3/observability/metrics/powerstore/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/observability/metrics/powerstore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/observability/metrics/powerstore/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/observability/metrics/powerstore/</guid>
       <description>
         
         
@@ -2573,10 +2573,10 @@ NFSv4 ACls are supported for NFSv4 shares on NFSv4 enabled NAS servers only. POS
     
     <item>
       <title>V3: Unity</title>
-      <link>https://dell.github.io/csm-docs/v3/csidriver/features/unity/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/features/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/csidriver/features/unity/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/features/unity/</guid>
       <description>
         
         
@@ -3078,10 +3078,10 @@ Example &lt;em&gt;configmap.yaml&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>V3: Unity</title>
-      <link>https://dell.github.io/csm-docs/v3/csidriver/upgradation/drivers/unity/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/upgradation/drivers/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/csidriver/upgradation/drivers/unity/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/upgradation/drivers/unity/</guid>
       <description>
         
         
@@ -3120,10 +3120,10 @@ Example &lt;em&gt;configmap.yaml&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>V3: Architecture</title>
-      <link>https://dell.github.io/csm-docs/v3/replication/architecture/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/replication/architecture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/replication/architecture/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/replication/architecture/</guid>
       <description>
         
         
@@ -3255,10 +3255,10 @@ source PVC objects. This information can be easily used to create the PVCs whene
     
     <item>
       <title>V3: CSM CLI</title>
-      <link>https://dell.github.io/csm-docs/v3/deployment/csminstaller/csmcli/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/deployment/csminstaller/csmcli/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/deployment/csminstaller/csmcli/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/deployment/csminstaller/csmcli/</guid>
       <description>
         
         
@@ -3436,10 +3436,10 @@ Once this is done, run the command below:&lt;/p&gt;
     
     <item>
       <title>V3: Deployment</title>
-      <link>https://dell.github.io/csm-docs/v3/authorization/deployment/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/authorization/deployment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/authorization/deployment/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/authorization/deployment/</guid>
       <description>
         
         
@@ -3687,10 +3687,10 @@ sshpass -p $DriverHostPassword scp token.yaml ${DriverHostVMUser}@{DriverHostVMI
     
     <item>
       <title>V3: Installation</title>
-      <link>https://dell.github.io/csm-docs/v3/replication/deployment/installation/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/replication/deployment/installation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/replication/deployment/installation/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/replication/deployment/installation/</guid>
       <description>
         
         
@@ -3781,10 +3781,10 @@ CSM Replication controller supports following log levels:&lt;/p&gt;
     
     <item>
       <title>V3: Uninstallation</title>
-      <link>https://dell.github.io/csm-docs/v3/authorization/uninstallation/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/authorization/uninstallation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/authorization/uninstallation/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/authorization/uninstallation/</guid>
       <description>
         
         
@@ -3800,10 +3800,10 @@ CSM Replication controller supports following log levels:&lt;/p&gt;
     
     <item>
       <title>V3: Uninstallation</title>
-      <link>https://dell.github.io/csm-docs/v3/resiliency/uninstallation/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/resiliency/uninstallation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/resiliency/uninstallation/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/resiliency/uninstallation/</guid>
       <description>
         
         
@@ -3816,10 +3816,10 @@ CSM Replication controller supports following log levels:&lt;/p&gt;
     
     <item>
       <title>V3: Use Cases</title>
-      <link>https://dell.github.io/csm-docs/v3/resiliency/usecases/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/resiliency/usecases/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/resiliency/usecases/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/resiliency/usecases/</guid>
       <description>
         
         
@@ -3862,10 +3862,10 @@ are connected to the Control Plane through a K8S Control Plane IP Network.&lt;/p
     
     <item>
       <title>V3: Cluster Topologies</title>
-      <link>https://dell.github.io/csm-docs/v3/replication/cluster-topologies/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/replication/cluster-topologies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/replication/cluster-topologies/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/replication/cluster-topologies/</guid>
       <description>
         
         
@@ -3965,10 +3965,10 @@ created in both &lt;code&gt;source&lt;/code&gt; and &lt;code&gt;target&lt;/code&
     
     <item>
       <title>V3: ConfigMap &amp; Secrets</title>
-      <link>https://dell.github.io/csm-docs/v3/replication/deployment/configmap-secrets/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/replication/deployment/configmap-secrets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/replication/deployment/configmap-secrets/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/replication/deployment/configmap-secrets/</guid>
       <description>
         
         
@@ -4065,10 +4065,10 @@ already has all the required RBAC privileges.&lt;/p&gt;
     
     <item>
       <title>V3: CSM CLI</title>
-      <link>https://dell.github.io/csm-docs/v3/deployment/csmcli/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/deployment/csmcli/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/deployment/csmcli/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/deployment/csmcli/</guid>
       <description>
         
         
@@ -4246,10 +4246,10 @@ Once this is done, run the command below:&lt;/p&gt;
     
     <item>
       <title>V3: Deployment</title>
-      <link>https://dell.github.io/csm-docs/v3/resiliency/deployment/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/resiliency/deployment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/resiliency/deployment/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/resiliency/deployment/</guid>
       <description>
         
         
@@ -4482,10 +4482,10 @@ The ConfigMap to edit will have this pattern: &lt;storage&gt;-config-params (e.g
     
     <item>
       <title>V3: Helm</title>
-      <link>https://dell.github.io/csm-docs/v3/observability/deployment/helm/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/observability/deployment/helm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/observability/deployment/helm/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/observability/deployment/helm/</guid>
       <description>
         
         
@@ -4786,10 +4786,10 @@ The ConfigMap to edit will have this pattern: &lt;storage&gt;-config-params (e.g
     
     <item>
       <title>V3: Installer</title>
-      <link>https://dell.github.io/csm-docs/v3/observability/deployment/online/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/observability/deployment/online/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/observability/deployment/online/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/observability/deployment/online/</guid>
       <description>
         
         
@@ -4946,10 +4946,10 @@ The following example will install CSM for Observability into the CSM namespace.
     
     <item>
       <title>V3: Offline Installer</title>
-      <link>https://dell.github.io/csm-docs/v3/observability/deployment/offline/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/observability/deployment/offline/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/observability/deployment/offline/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/observability/deployment/offline/</guid>
       <description>
         
         
@@ -5092,10 +5092,10 @@ TEST SUITE: None
     
     <item>
       <title>V3: OperatorHub.io</title>
-      <link>https://dell.github.io/csm-docs/v3/csidriver/partners/operator/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/partners/operator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/csidriver/partners/operator/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/partners/operator/</guid>
       <description>
         
         
@@ -5121,10 +5121,10 @@ TEST SUITE: None
     
     <item>
       <title>V3: Red Hat OpenShift</title>
-      <link>https://dell.github.io/csm-docs/v3/csidriver/partners/redhat/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/partners/redhat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/csidriver/partners/redhat/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/csidriver/partners/redhat/</guid>
       <description>
         
         
@@ -5172,10 +5172,10 @@ TEST SUITE: None
     
     <item>
       <title>V3: Troubleshooting</title>
-      <link>https://dell.github.io/csm-docs/v3/deployment/csminstaller/troubleshooting/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/deployment/csminstaller/troubleshooting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/deployment/csminstaller/troubleshooting/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/deployment/csminstaller/troubleshooting/</guid>
       <description>
         
         
@@ -5220,10 +5220,10 @@ TEST SUITE: None
     
     <item>
       <title>V3: Upgrade</title>
-      <link>https://dell.github.io/csm-docs/v3/authorization/upgrade/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/authorization/upgrade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/authorization/upgrade/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/authorization/upgrade/</guid>
       <description>
         
         
@@ -5260,10 +5260,10 @@ k3s kubectl version
     
     <item>
       <title>V3: Upgrade</title>
-      <link>https://dell.github.io/csm-docs/v3/resiliency/upgrade/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/resiliency/upgrade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/resiliency/upgrade/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/resiliency/upgrade/</guid>
       <description>
         
         
@@ -5286,10 +5286,10 @@ k3s kubectl version
     
     <item>
       <title>V3: CLI</title>
-      <link>https://dell.github.io/csm-docs/v3/authorization/cli/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/authorization/cli/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/authorization/cli/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/authorization/cli/</guid>
       <description>
         
         
@@ -5824,10 +5824,10 @@ data:
     
     <item>
       <title>V3: Disaster Recovery</title>
-      <link>https://dell.github.io/csm-docs/v3/replication/disaster-recovery/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/replication/disaster-recovery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/replication/disaster-recovery/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/replication/disaster-recovery/</guid>
       <description>
         
         
@@ -5870,10 +5870,10 @@ c. Execute &amp;quot;reprotect&amp;quot; action on selected ReplicationGroup whi
     
     <item>
       <title>V3: Installation using repctl</title>
-      <link>https://dell.github.io/csm-docs/v3/replication/deployment/install-repctl/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/replication/deployment/install-repctl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/replication/deployment/install-repctl/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/replication/deployment/install-repctl/</guid>
       <description>
         
         
@@ -5925,10 +5925,10 @@ information
     
     <item>
       <title>V3: Troubleshooting</title>
-      <link>https://dell.github.io/csm-docs/v3/deployment/troubleshooting/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/deployment/troubleshooting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/deployment/troubleshooting/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/deployment/troubleshooting/</guid>
       <description>
         
         
@@ -5965,10 +5965,10 @@ information
     
     <item>
       <title>V3: Troubleshooting</title>
-      <link>https://dell.github.io/csm-docs/v3/resiliency/troubleshooting/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/resiliency/troubleshooting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/resiliency/troubleshooting/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/resiliency/troubleshooting/</guid>
       <description>
         
         
@@ -6012,10 +6012,10 @@ If you experience a problem with CSM for Resiliency it is important you provide 
     
     <item>
       <title>V3: High Availability</title>
-      <link>https://dell.github.io/csm-docs/v3/replication/high-availability/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/replication/high-availability/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/replication/high-availability/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/replication/high-availability/</guid>
       <description>
         
         
@@ -6072,10 +6072,10 @@ The snapshots are by default created on the volumes on the R1 side of the SRDF m
     
     <item>
       <title>V3: Storage Class</title>
-      <link>https://dell.github.io/csm-docs/v3/replication/deployment/storageclasses/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/replication/deployment/storageclasses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/replication/deployment/storageclasses/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/replication/deployment/storageclasses/</guid>
       <description>
         
         
@@ -6148,10 +6148,10 @@ then the storage class definitions in both the clusters would look like -&lt;/p&
     
     <item>
       <title>V3: Troubleshooting</title>
-      <link>https://dell.github.io/csm-docs/v3/authorization/troubleshooting/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/authorization/troubleshooting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/authorization/troubleshooting/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/authorization/troubleshooting/</guid>
       <description>
         
         
@@ -6180,10 +6180,10 @@ prevent communication with the &lt;code&gt;&amp;lt;grpc-address&amp;gt;&lt;/code
     
     <item>
       <title>V3: Monitoring</title>
-      <link>https://dell.github.io/csm-docs/v3/replication/monitoring/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/replication/monitoring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/replication/monitoring/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/replication/monitoring/</guid>
       <description>
         
         
@@ -6200,10 +6200,10 @@ replicated-rg-240721b0-12fb-4151-8dd8-94794ae2493e   51d     Ready   SUSPENDED  
     
     <item>
       <title>V3: PowerMax</title>
-      <link>https://dell.github.io/csm-docs/v3/replication/deployment/powermax/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/replication/deployment/powermax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/replication/deployment/powermax/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/replication/deployment/powermax/</guid>
       <description>
         
         
@@ -6497,10 +6497,10 @@ The storage protection group on the array can be deleted only if it has no volum
     
     <item>
       <title>V3: Replication Actions</title>
-      <link>https://dell.github.io/csm-docs/v3/replication/replication-actions/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/replication/replication-actions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/replication/replication-actions/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/replication/replication-actions/</guid>
       <description>
         
         
@@ -6623,10 +6623,10 @@ While performing site-specific actions, please consult each driver&amp;rsquo;s d
     
     <item>
       <title>V3: PowerScale</title>
-      <link>https://dell.github.io/csm-docs/v3/replication/deployment/powerscale/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/replication/deployment/powerscale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/replication/deployment/powerscale/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/replication/deployment/powerscale/</guid>
       <description>
         
         
@@ -6777,10 +6777,10 @@ using the parameters provided in the replication enabled Storage Class.&lt;/p&gt
     
     <item>
       <title>V3: PowerStore</title>
-      <link>https://dell.github.io/csm-docs/v3/replication/deployment/powerstore/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/replication/deployment/powerstore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/replication/deployment/powerstore/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/replication/deployment/powerstore/</guid>
       <description>
         
         
@@ -6966,10 +6966,10 @@ using the parameters provided in the replication enabled Storage Class.&lt;/p&gt
     
     <item>
       <title>V3: Tools</title>
-      <link>https://dell.github.io/csm-docs/v3/replication/tools/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/replication/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/replication/tools/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/replication/tools/</guid>
       <description>
         
         
@@ -7082,10 +7082,10 @@ Name of StorageClass resource that created as &amp;ldquo;target&amp;rdquo; will 
     
     <item>
       <title>V3: Troubleshooting</title>
-      <link>https://dell.github.io/csm-docs/v3/replication/troubleshooting/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/replication/troubleshooting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/replication/troubleshooting/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/replication/troubleshooting/</guid>
       <description>
         
         

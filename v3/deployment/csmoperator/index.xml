@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – CSM Operator</title>
-    <link>https://dell.github.io/csm-docs/v3/deployment/csmoperator/</link>
+    <link>https://krunal-thakkar.github.io/csm-docs/v3/deployment/csmoperator/</link>
     <description>Recent content in CSM Operator on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://dell.github.io/csm-docs/v3/deployment/csmoperator/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://krunal-thakkar.github.io/csm-docs/v3/deployment/csmoperator/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>V3: CSI Drivers</title>
-      <link>https://dell.github.io/csm-docs/v3/deployment/csmoperator/drivers/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/deployment/csmoperator/drivers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/deployment/csmoperator/drivers/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/deployment/csmoperator/drivers/</guid>
       <description>
         
         
@@ -28,10 +28,10 @@
     
     <item>
       <title>V3: CSM Modules</title>
-      <link>https://dell.github.io/csm-docs/v3/deployment/csmoperator/modules/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/deployment/csmoperator/modules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/deployment/csmoperator/modules/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/deployment/csmoperator/modules/</guid>
       <description>
         
         
@@ -48,10 +48,10 @@ The steps include:&lt;/p&gt;
     
     <item>
       <title>V3: Troubleshooting</title>
-      <link>https://dell.github.io/csm-docs/v3/deployment/csmoperator/troubleshooting/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v3/deployment/csmoperator/troubleshooting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v3/deployment/csmoperator/troubleshooting/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v3/deployment/csmoperator/troubleshooting/</guid>
       <description>
         
         

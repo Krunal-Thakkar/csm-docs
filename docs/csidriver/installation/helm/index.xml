@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – CSI Driver installation using Helm</title>
-    <link>https://dell.github.io/csm-docs/docs/csidriver/installation/helm/</link>
+    <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/installation/helm/</link>
     <description>Recent content in CSI Driver installation using Helm on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://dell.github.io/csm-docs/docs/csidriver/installation/helm/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://krunal-thakkar.github.io/csm-docs/docs/csidriver/installation/helm/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: PowerFlex</title>
-      <link>https://dell.github.io/csm-docs/docs/csidriver/installation/helm/powerflex/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/installation/helm/powerflex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/csidriver/installation/helm/powerflex/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/installation/helm/powerflex/</guid>
       <description>
         
         
@@ -595,10 +595,10 @@ Deleting a storage class has no impact on a running Pod with mounted PVCs. You c
     
     <item>
       <title>Docs: PowerMax</title>
-      <link>https://dell.github.io/csm-docs/docs/csidriver/installation/helm/powermax/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/installation/helm/powermax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/csidriver/installation/helm/powermax/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/installation/helm/powermax/</guid>
       <description>
         
         
@@ -1343,10 +1343,10 @@ You can specify primary and backup Unisphere servers for each storage array. If 
     
     <item>
       <title>Docs: PowerScale</title>
-      <link>https://dell.github.io/csm-docs/docs/csidriver/installation/helm/isilon/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/installation/helm/isilon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/csidriver/installation/helm/isilon/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/installation/helm/isilon/</guid>
       <description>
         
         
@@ -1986,10 +1986,10 @@ Deleting a storage class has no impact on a running Pod with mounted PVCs. You c
     
     <item>
       <title>Docs: PowerStore</title>
-      <link>https://dell.github.io/csm-docs/docs/csidriver/installation/helm/powerstore/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/installation/helm/powerstore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/csidriver/installation/helm/powerstore/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/installation/helm/powerstore/</guid>
       <description>
         
         
@@ -2444,10 +2444,10 @@ NFSv4 ACls are supported for NFSv4 shares on NFSv4 enabled NAS servers only. POS
     
     <item>
       <title>Docs: Unity XT</title>
-      <link>https://dell.github.io/csm-docs/docs/csidriver/installation/helm/unity/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/installation/helm/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/csidriver/installation/helm/unity/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/csidriver/installation/helm/unity/</guid>
       <description>
         
         

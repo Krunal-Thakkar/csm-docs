@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – Features</title>
-    <link>https://dell.github.io/csm-docs/v1/csidriver/features/</link>
+    <link>https://krunal-thakkar.github.io/csm-docs/v1/csidriver/features/</link>
     <description>Recent content in Features on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://dell.github.io/csm-docs/v1/csidriver/features/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://krunal-thakkar.github.io/csm-docs/v1/csidriver/features/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>V1: PowerFlex</title>
-      <link>https://dell.github.io/csm-docs/v1/csidriver/features/powerflex/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v1/csidriver/features/powerflex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v1/csidriver/features/powerflex/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v1/csidriver/features/powerflex/</guid>
       <description>
         
         
@@ -541,10 +541,10 @@ Warning  VolumeConditionAbnormal      5s                 kubelet       Volume vo
     
     <item>
       <title>V1: PowerMax</title>
-      <link>https://dell.github.io/csm-docs/v1/csidriver/features/powermax/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v1/csidriver/features/powermax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v1/csidriver/features/powermax/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v1/csidriver/features/powermax/</guid>
       <description>
         
         
@@ -1012,10 +1012,10 @@ N2 and N3: None&lt;/p&gt;
     
     <item>
       <title>V1: PowerScale</title>
-      <link>https://dell.github.io/csm-docs/v1/csidriver/features/powerscale/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v1/csidriver/features/powerscale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v1/csidriver/features/powerscale/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v1/csidriver/features/powerscale/</guid>
       <description>
         
         
@@ -1462,10 +1462,10 @@ For example, if a volume were to be deleted from the array, or unmounted outside
     
     <item>
       <title>V1: PowerStore</title>
-      <link>https://dell.github.io/csm-docs/v1/csidriver/features/powerstore/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v1/csidriver/features/powerstore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v1/csidriver/features/powerstore/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v1/csidriver/features/powerstore/</guid>
       <description>
         
         
@@ -2027,10 +2027,10 @@ Make sure that the attributes specified are supported by the version of PowerSto
     
     <item>
       <title>V1: Unity XT</title>
-      <link>https://dell.github.io/csm-docs/v1/csidriver/features/unity/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v1/csidriver/features/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v1/csidriver/features/unity/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v1/csidriver/features/unity/</guid>
       <description>
         
         

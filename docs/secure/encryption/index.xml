@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – Encryption</title>
-    <link>https://dell.github.io/csm-docs/docs/secure/encryption/</link>
+    <link>https://krunal-thakkar.github.io/csm-docs/docs/secure/encryption/</link>
     <description>Recent content in Encryption on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://dell.github.io/csm-docs/docs/secure/encryption/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://krunal-thakkar.github.io/csm-docs/docs/secure/encryption/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Deployment</title>
-      <link>https://dell.github.io/csm-docs/docs/secure/encryption/deployment/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/secure/encryption/deployment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/secure/encryption/deployment/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/secure/encryption/deployment/</guid>
       <description>
         
         
@@ -290,10 +290,10 @@ To apply new values in the secret (e.g., to update the client certificate), the 
     
     <item>
       <title>Docs: Uninstallation</title>
-      <link>https://dell.github.io/csm-docs/docs/secure/encryption/uninstallation/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/secure/encryption/uninstallation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/secure/encryption/uninstallation/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/secure/encryption/uninstallation/</guid>
       <description>
         
         
@@ -323,10 +323,10 @@ VQrpjsCPCu3fpVjvvwfspVOftbn/sNgY1J3lz0pdgvJ3yQs6pa+DODQyin5Rt//19rIGifPxi/Hk/k49
     
     <item>
       <title>Docs: Vault Configuration</title>
-      <link>https://dell.github.io/csm-docs/docs/secure/encryption/vault/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/secure/encryption/vault/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/secure/encryption/vault/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/secure/encryption/vault/</guid>
       <description>
         
         
@@ -512,10 +512,10 @@ The client token will only be able to renew 3 times before reaching it total all
     
     <item>
       <title>Docs: Rekey Configuration</title>
-      <link>https://dell.github.io/csm-docs/docs/secure/encryption/rekey/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/secure/encryption/rekey/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/secure/encryption/rekey/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/secure/encryption/rekey/</guid>
       <description>
         
         
@@ -669,10 +669,10 @@ the rekey can be inspected through the &lt;code&gt;status.phase&lt;/code&gt; fie
     
     <item>
       <title>Docs: Release Notes</title>
-      <link>https://dell.github.io/csm-docs/docs/secure/encryption/release/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/secure/encryption/release/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/secure/encryption/release/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/secure/encryption/release/</guid>
       <description>
         
         
@@ -693,10 +693,10 @@ the rekey can be inspected through the &lt;code&gt;status.phase&lt;/code&gt; fie
     
     <item>
       <title>Docs: Troubleshooting</title>
-      <link>https://dell.github.io/csm-docs/docs/secure/encryption/troubleshooting/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/secure/encryption/troubleshooting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/secure/encryption/troubleshooting/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/secure/encryption/troubleshooting/</guid>
       <description>
         
         

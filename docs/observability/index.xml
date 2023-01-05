@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – Observability</title>
-    <link>https://dell.github.io/csm-docs/docs/observability/</link>
+    <link>https://krunal-thakkar.github.io/csm-docs/docs/observability/</link>
     <description>Recent content in Observability on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://dell.github.io/csm-docs/docs/observability/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://krunal-thakkar.github.io/csm-docs/docs/observability/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Design</title>
-      <link>https://dell.github.io/csm-docs/docs/observability/design/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/observability/design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/observability/design/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/observability/design/</guid>
       <description>
         
         
@@ -53,10 +53,10 @@
     
     <item>
       <title>Docs: Metrics</title>
-      <link>https://dell.github.io/csm-docs/docs/observability/metrics/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/observability/metrics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/observability/metrics/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/observability/metrics/</guid>
       <description>
         
         
@@ -67,10 +67,10 @@
     
     <item>
       <title>Docs: Deployment</title>
-      <link>https://dell.github.io/csm-docs/docs/observability/deployment/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/observability/deployment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/observability/deployment/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/observability/deployment/</guid>
       <description>
         
         
@@ -631,10 +631,10 @@ helm repo update
     
     <item>
       <title>Docs: Uninstallation</title>
-      <link>https://dell.github.io/csm-docs/docs/observability/uninstall/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/observability/uninstall/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/observability/uninstall/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/observability/uninstall/</guid>
       <description>
         
         
@@ -650,10 +650,10 @@ helm repo update
     
     <item>
       <title>Docs: Upgrade</title>
-      <link>https://dell.github.io/csm-docs/docs/observability/upgrade/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/observability/upgrade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/observability/upgrade/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/observability/upgrade/</guid>
       <description>
         
         
@@ -768,10 +768,10 @@ Optionally, you could provide your own &lt;a href=&#34;../deployment/helm/#confi
     
     <item>
       <title>Docs: Troubleshooting</title>
-      <link>https://dell.github.io/csm-docs/docs/observability/troubleshooting/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/observability/troubleshooting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/observability/troubleshooting/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/observability/troubleshooting/</guid>
       <description>
         
         
@@ -968,10 +968,10 @@ Optionally, you could provide your own &lt;a href=&#34;../deployment/helm/#confi
     
     <item>
       <title>Docs: Release notes</title>
-      <link>https://dell.github.io/csm-docs/docs/observability/release/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/observability/release/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/observability/release/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/observability/release/</guid>
       <description>
         
         

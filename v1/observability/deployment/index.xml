@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – Deployment</title>
-    <link>https://dell.github.io/csm-docs/v1/observability/deployment/</link>
+    <link>https://krunal-thakkar.github.io/csm-docs/v1/observability/deployment/</link>
     <description>Recent content in Deployment on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://dell.github.io/csm-docs/v1/observability/deployment/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://krunal-thakkar.github.io/csm-docs/v1/observability/deployment/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>V1: Helm</title>
-      <link>https://dell.github.io/csm-docs/v1/observability/deployment/helm/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v1/observability/deployment/helm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v1/observability/deployment/helm/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v1/observability/deployment/helm/</guid>
       <description>
         
         
@@ -438,10 +438,10 @@
     
     <item>
       <title>V1: Installer</title>
-      <link>https://dell.github.io/csm-docs/v1/observability/deployment/online/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v1/observability/deployment/online/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v1/observability/deployment/online/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v1/observability/deployment/online/</guid>
       <description>
         
         
@@ -601,10 +601,10 @@ The following example will install CSM for Observability into the CSM namespace.
     
     <item>
       <title>V1: Offline Installer</title>
-      <link>https://dell.github.io/csm-docs/v1/observability/deployment/offline/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v1/observability/deployment/offline/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v1/observability/deployment/offline/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v1/observability/deployment/offline/</guid>
       <description>
         
         

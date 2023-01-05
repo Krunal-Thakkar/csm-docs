@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – Authorization</title>
-    <link>https://dell.github.io/csm-docs/v2/authorization/</link>
+    <link>https://krunal-thakkar.github.io/csm-docs/v2/authorization/</link>
     <description>Recent content in Authorization on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://dell.github.io/csm-docs/v2/authorization/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://krunal-thakkar.github.io/csm-docs/v2/authorization/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>V2: Design</title>
-      <link>https://dell.github.io/csm-docs/v2/authorization/design/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v2/authorization/design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v2/authorization/design/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v2/authorization/design/</guid>
       <description>
         
         
@@ -234,10 +234,10 @@ today.  Support for more Storage Arrays will come in the future.&lt;/p&gt;
     
     <item>
       <title>V2: Deployment</title>
-      <link>https://dell.github.io/csm-docs/v2/authorization/deployment/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v2/authorization/deployment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v2/authorization/deployment/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v2/authorization/deployment/</guid>
       <description>
         
         
@@ -248,10 +248,10 @@ today.  Support for more Storage Arrays will come in the future.&lt;/p&gt;
     
     <item>
       <title>V2: Uninstallation</title>
-      <link>https://dell.github.io/csm-docs/v2/authorization/uninstallation/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v2/authorization/uninstallation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v2/authorization/uninstallation/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v2/authorization/uninstallation/</guid>
       <description>
         
         
@@ -267,10 +267,10 @@ today.  Support for more Storage Arrays will come in the future.&lt;/p&gt;
     
     <item>
       <title>V2: Upgrade</title>
-      <link>https://dell.github.io/csm-docs/v2/authorization/upgrade/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v2/authorization/upgrade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v2/authorization/upgrade/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v2/authorization/upgrade/</guid>
       <description>
         
         
@@ -307,10 +307,10 @@ k3s kubectl version
     
     <item>
       <title>V2: CLI</title>
-      <link>https://dell.github.io/csm-docs/v2/authorization/cli/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v2/authorization/cli/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v2/authorization/cli/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v2/authorization/cli/</guid>
       <description>
         
         
@@ -881,10 +881,10 @@ data:
     
     <item>
       <title>V2: Troubleshooting</title>
-      <link>https://dell.github.io/csm-docs/v2/authorization/troubleshooting/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v2/authorization/troubleshooting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v2/authorization/troubleshooting/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v2/authorization/troubleshooting/</guid>
       <description>
         
         
@@ -1007,10 +1007,10 @@ kubectl -n &amp;lt;driver-namespace&amp;gt; rollout restart daemonSet/vxflexos-n
     
     <item>
       <title>V2: Release notes</title>
-      <link>https://dell.github.io/csm-docs/v2/authorization/release/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v2/authorization/release/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v2/authorization/release/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v2/authorization/release/</guid>
       <description>
         
         

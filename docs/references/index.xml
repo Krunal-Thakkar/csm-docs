@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – References</title>
-    <link>https://dell.github.io/csm-docs/docs/references/</link>
+    <link>https://krunal-thakkar.github.io/csm-docs/docs/references/</link>
     <description>Recent content in References on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://dell.github.io/csm-docs/docs/references/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://krunal-thakkar.github.io/csm-docs/docs/references/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: CLI</title>
-      <link>https://dell.github.io/csm-docs/docs/references/cli/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/references/cli/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/references/cli/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/references/cli/</guid>
       <description>
         
         
@@ -484,10 +484,10 @@ schedule1     Enabled   2022-11-04 08:33:35 +0000 UTC   false    @every 1h   NA
     
     <item>
       <title>Docs: CSM FAQ</title>
-      <link>https://dell.github.io/csm-docs/docs/references/faq/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/references/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/references/faq/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/references/faq/</guid>
       <description>
         
         
@@ -581,10 +581,10 @@ schedule1     Enabled   2022-11-04 08:33:35 +0000 UTC   false    @every 1h   NA
     
     <item>
       <title>Docs: Learn</title>
-      <link>https://dell.github.io/csm-docs/docs/references/learn/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/references/learn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/references/learn/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/references/learn/</guid>
       <description>
         
         
@@ -594,10 +594,10 @@ schedule1     Enabled   2022-11-04 08:33:35 +0000 UTC   false    @every 1h   NA
     
     <item>
       <title>Docs: Contribution Guidelines</title>
-      <link>https://dell.github.io/csm-docs/docs/references/contributionguidelines/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/references/contributionguidelines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/references/contributionguidelines/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/references/contributionguidelines/</guid>
       <description>
         
         
@@ -724,10 +724,10 @@ To avoid broken links in the portal, use regular relative URLs in links that wil
     
     <item>
       <title>Docs: Policies</title>
-      <link>https://dell.github.io/csm-docs/docs/references/policies/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/docs/references/policies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/docs/references/policies/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/docs/references/policies/</guid>
       <description>
         
         

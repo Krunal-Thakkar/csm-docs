@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – CSM Installer</title>
-    <link>https://dell.github.io/csm-docs/v2/deployment/csminstaller/</link>
+    <link>https://krunal-thakkar.github.io/csm-docs/v2/deployment/csminstaller/</link>
     <description>Recent content in CSM Installer on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://dell.github.io/csm-docs/v2/deployment/csminstaller/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://krunal-thakkar.github.io/csm-docs/v2/deployment/csminstaller/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>V2: CSM REST API</title>
-      <link>https://dell.github.io/csm-docs/v2/deployment/csminstaller/csmapi/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v2/deployment/csminstaller/csmapi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v2/deployment/csminstaller/csmapi/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v2/deployment/csminstaller/csmapi/</guid>
       <description>
         
         
@@ -44,10 +44,10 @@ window.onload = function() {
     
     <item>
       <title>V2: CSM CLI</title>
-      <link>https://dell.github.io/csm-docs/v2/deployment/csminstaller/csmcli/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v2/deployment/csminstaller/csmcli/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v2/deployment/csminstaller/csmcli/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v2/deployment/csminstaller/csmcli/</guid>
       <description>
         
         
@@ -225,10 +225,10 @@ Once this is done, run the command below:&lt;/p&gt;
     
     <item>
       <title>V2: Troubleshooting</title>
-      <link>https://dell.github.io/csm-docs/v2/deployment/csminstaller/troubleshooting/</link>
+      <link>https://krunal-thakkar.github.io/csm-docs/v2/deployment/csminstaller/troubleshooting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dell.github.io/csm-docs/v2/deployment/csminstaller/troubleshooting/</guid>
+      <guid>https://krunal-thakkar.github.io/csm-docs/v2/deployment/csminstaller/troubleshooting/</guid>
       <description>
         
         
